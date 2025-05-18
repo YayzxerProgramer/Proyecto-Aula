@@ -1,0 +1,16 @@
+Jabón de tocador,Jabón de tocador,1000,Jabón,1
+Gel de baño,Gel de baño,2000,Gel,1
+Desodorante,Desodorante,3000,Desodorante,1
+Talco corporal,Talco corporal,4000,Talco,1
+Crema dental,Crema dental,5000,Crema dental,1
+Cepillo de dientes,Cepillo de dientes,6000,Cepillo de dientes,1
+Enjuague bucal,Enjuague bucal,7000,Enjuague bucal,1
+Hilo dental,Hilo dental,8000,Hilo dental,1
+Champú,Champú,9000,Champú,1
+Acondicionador,Acondicionador,10000,Acondicionador,1
+Tratamientos capilares,Tratamientos capilares,11000,Tratamientos capilares,1
+Gel o cera para el cabello,Gel o cera para el cabello,12000,Gel o cera para el cabello,1
+Toallas higiénicas,Toallas higiénicas,13000,Toallas higiénicas,1
+Protectores diarios,Protectores diarios,14000,Protectores diarios,1
+Jabón íntimo,Jabón íntimo,15000,Jabón íntimo,1
+Papel higiénico,Papel higiénico,16000,Papel higiénico,1

@@ -1,0 +1,4 @@
+Yannior Jose Tapias Segovia,YanniorT,Ytapias0118,18,yanniortapias36@gmail.com,Administrador
+Anderson Javier Pajaro Fanco,AndersonP,AndersonP18,18,andersonjota.pajarofranco@gmail.com,Empleado
+Andres David Rico Palencia,AndresR,AndresR0118,18,ricoandres096@gmail.com,Cliente
+Luis Sarmiento,LuisS,LuisS123,17,luiskdr22@gmail.com,Administrador

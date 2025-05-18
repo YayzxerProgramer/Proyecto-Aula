@@ -1,0 +1,16 @@
+CocaCola,Gaseosa,6000,Gaseosa,1000
+Pepsi,Gaseosa,5800,Gaseosa,1000
+Sprite,Gaseosa,5700,Gaseosa,1000
+Fanta,Gaseosa,5900,Gaseosa,1000
+Manzana Postobón,Gaseosa,5600,Gaseosa,1000
+Agua Cristal,Agua,3000,Agua,500
+Agua Manantial,Agua,3100,Agua,500
+Electrolit,Hidratante,8500,Hidratante,625
+Gatorade,Hidratante,7000,Hidratante,600
+Powerade,Hidratante,7200,Hidratante,600
+Red Bull,Energética,9000,Energética,250
+Monster,Energética,9500,Energética,500
+Vive 100,Energética,5000,Energética,400
+Lipton Té Frío,Té,4500,Té,500
+Nestea,Té,4600,Té,500
+Jugo Del Valle Mango,Jugo,5500,Jugo,500

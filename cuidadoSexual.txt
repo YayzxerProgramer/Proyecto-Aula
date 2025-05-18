@@ -1,0 +1,9 @@
+Condones Durex,Condones,5000,Latex,12
+Condones Today,Condones,4500,Latex,12
+Condones Vive,Condones,4000,Latex,12
+Lubricante Durex,Lubricante,7000,Gel,50
+Lubricante Today,Lubricante,6500,Gel,50
+Lubricante Vive,Lubricante,6000,Gel,50
+Anticonceptivos Fem,Anticonceptivo,15000,Oral,21
+Anticonceptivos Yasmin,Anticonceptivo,16000,Oral,21
+Anticonceptivos Dixi,Anticonceptivo,15500,Oral,21
